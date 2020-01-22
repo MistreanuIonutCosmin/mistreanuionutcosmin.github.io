@@ -1,6 +1,4 @@
-# About
-
-
+# Index
 
 I am a young and curious engineer who is always looking for new things to learn and problems to solve.
 
